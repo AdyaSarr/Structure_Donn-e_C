@@ -1,2 +1,2 @@
-# Structure_Donn-e_C
-Les différentes structures de Données en C
+# Algorithme d'unification et d'anti-unification
+l'algo d'unif et antti-unif en Ocaml
